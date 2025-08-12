@@ -12,7 +12,7 @@ AtliQ Hardwares identified a gap in their ability to make quick, smart data-info
 
 As a hypothetical applicant for this role, I was tasked with:
 
-- Reviewing the `ad-hoc-requests.pdf`, which contained 10 ad hoc business requests requiring insights.
+- Reviewing the `Consumer Goods Ad Hoc Presentation.pdf`, which contained 10 ad hoc business requests requiring insights.
 - Writing and executing SQL queries to answer these requests.
 - Creating a presentation to showcase these insights, targeting top-level management.
 
